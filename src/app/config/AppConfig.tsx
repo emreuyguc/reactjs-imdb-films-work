@@ -1,6 +1,6 @@
 const AppConfig = {
-    IMDB_API_KEY: 'k_4qewr4qe'
-    // yedek api key : 'k_vsxsd1fd'
+    IMDB_API_KEY: 'k_8d9l511h'
+    // yedek api key : 'k_8d9l511h'
     // günlük limit 100
     // imdb-api.com
 }
